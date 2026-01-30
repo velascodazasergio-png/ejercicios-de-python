@@ -1,1 +1,1 @@
-# ejercicios-de-python
+# ejercicios-de-python-para-subir-puntos
